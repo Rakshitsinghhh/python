@@ -1,0 +1,12 @@
+
+['Vangharelo Rotlo(x4)', 'Bajrino  Rotlo(x4)']
+['Sev tameta', 'Sev    Dungri', 'Dungri  Bataka', 'Bajrino  Rotlo(x4)']
+['Rasala   Bataka', 'Sev    Dungri', 'Bajrino  Rotlo(x4)']
+['Rasala   Bataka', 'Sev    Dungri', 'Dungri  Bataka']
+['Sev tameta', 'Dungri  Bataka', 'Vangharelo Rotlo(x4)']
+['Sev tameta', 'Bajrino  Rotlo(x4)']
+['Sev tameta', 'Vangharelo Rotlo(x4)', 'Bajrino  Rotlo(x4)']
+['Sev tameta', 'Lasaniyia Bataka']
+['Bajra Roti(x4)', 'Dal Banjari ']
+['Dal Chawal Kutt', 'Masala Gatta', 'Pyaaz Paneer']
+['Dal Baati Churma', 'Bajra Roti(x4)', 'Dal Chawal Kutt']
